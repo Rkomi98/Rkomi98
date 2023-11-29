@@ -13,9 +13,9 @@ This is my GitHub page!
 <br/> 
 
 <h2> GitHub Stats </h2> 
-<a href="https://github.com/Rkmomi98/github-readme-stats"><img align="left" width="39.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkmomi98&layout=donut&theme=merko" /></a>
+<a href="https://github.com/rkomi98/github-readme-stats"><img align="left" width="39.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkomi98&layout=donut&theme=merko" /></a>
 
-<img width="58%" src="https://github-readme-stats.vercel.app/api?username=rkmomi98&theme=merko&show_icons=true" alt="Mirko Calcaterra in pills" />
+<img width="58%" src="https://github-readme-stats.vercel.app/api?username=rkomi98&theme=merko&show_icons=true" alt="Mirko Calcaterra in pills" />
 
 <!--
 
