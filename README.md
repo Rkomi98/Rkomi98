@@ -1,4 +1,4 @@
-### Hi, I'm Mirko Calcaterra 👋
+![immagine](https://github.com/Rkomi98/Rkomi98/assets/72648197/0be517dc-30d1-44d5-9471-0626d488e03b)### Hi, I'm Mirko Calcaterra 👋
 
 <img align="right" alt="GIF" height="200px" src="giphy.gif" />
 
@@ -6,7 +6,7 @@ This is my GitHub page!
 
 ✨ My name is Mirko Calcaterra, and I'm a **Geoinformatics Engineering** student at **Politecnico di Milano**. 
 
-🔭 I'm into **Neural Networks** and **Earth Observation**
+🔭 I'm love coding, creating dashboards and I also love studying **Machine learning**, **Neural Networks** and **Earth Observation** algotihms.
 
 💬 I love **volleyball**, **coding** and **stat**
 
