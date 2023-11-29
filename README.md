@@ -10,13 +10,13 @@ Welcome to my GitHub page!
 
 🔭 I'm into **Neural Networks** and **Earth Observation**
 
-💬 I love **cinema**, **climbing** and **martial arts**
+💬 I love **volleyball**, **coding** and **stat**
 
 <br/> 
 
 <h2> GitHub Stats </h2> 
 <a href="https://github.com/Rkmomi98/github-readme-stats"><img align="left" width="39.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkmomi98&layout=donut&theme=merko" /></a>
-<img width="58%" src="https://github-readme-stats.vercel.app/api?username=Rkmomi98&theme=merko&show_icons=true" alt="Rkmomi98" />
+<img width="58%" src="https://github-readme-stats.vercel.app/api?username=Rkmomi98&theme=merko&show_icons=true" alt="Mirko's ability to code" />
 
 <!--
 
