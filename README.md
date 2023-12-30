@@ -1,4 +1,4 @@
-![immagine](https://github.com/Rkomi98/Rkomi98/assets/72648197/0be517dc-30d1-44d5-9471-0626d488e03b)### Hi, I'm Mirko Calcaterra 👋
+Hi, I'm Mirko Calcaterra 👋
 
 <img align="right" alt="GIF" height="200px" src="giphy.gif" />
 
