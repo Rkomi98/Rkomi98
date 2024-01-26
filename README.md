@@ -6,9 +6,10 @@ This is my GitHub page!
 
 ✨ My name is Mirko Calcaterra, and I'm a **Geoinformatics Engineering** student at **Politecnico di Milano**. 
 
-🔭 I'm love coding, creating dashboards and I also love studying **Machine learning**, **Neural Networks** and **Earth Observation** algotihms.
+🔭 I love coding, creating dashboards and I also love studying **Machine learning**, **Neural Networks** and **Earth Observation** trends and algotihms.
 
-💬 I love **volleyball**, **coding** and **stat**
+💬 In my free time I also play **volleyball**
+<!--**coding** and **stat**-->
 
 <br/> 
 
