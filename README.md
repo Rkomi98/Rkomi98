@@ -91,9 +91,10 @@ Hey 👋 I'm Mirko Calcaterra
   <a href="https://www.fubinitonelli.it/inferenza/" target="_blank"><strong>Browse the book preview here</strong></a>
 </p>
 
-### 🏆 Trophies
+### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rkomi98&theme=gruvbox&margin-w=5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rkomi98&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkomi98&theme=dark" />
 </p>
 
 ---
@@ -103,7 +104,7 @@ Hey 👋 I'm Mirko Calcaterra
 #### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mirko-calcaterra-30029519b)
 
-<sub>Last update: June 2025</sub>
+<sub>Last update: August 2025</sub>
 
 <!--
 
