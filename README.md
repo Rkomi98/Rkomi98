@@ -6,7 +6,7 @@ Hey 👋 I'm Mirko Calcaterra
 
 
 <p align="left">
-  <strong>AI Technical Trainer</strong> · Edu Team @ <a href="https://datapizza.tech" target="_blank">Datapizza</a><br/>
+  <strong>GenAI Engineer</strong> · AI Adoption Team @ <a href="https://datapizza.tech" target="_blank">Datapizza</a><br/>
   🎓 Geoinformatics Engineer &nbsp;|&nbsp; 📐 Mathematical Engineer @ <a href="https://www.polimi.it" target="_blank">Politecnico di Milano</a>
 </p>
 
