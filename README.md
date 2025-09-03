@@ -94,7 +94,6 @@ Hey 👋 I'm Mirko Calcaterra
 ### 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rkomi98&show_icons=true&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkomi98&theme=dark" />
 </p>
 
 ---
