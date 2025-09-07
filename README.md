@@ -96,6 +96,10 @@ Hey 👋 I'm Mirko Calcaterra
   <img src="https://github-readme-stats.vercel.app/api?username=rkomi98&show_icons=true&theme=dark" />
 </p>
 
+[![Mirko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rkomi98&bg_color=1d1f21&color=ffffff&line=00e676&point=ff9100&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
+
 ---
 
 > *\"Data is the new soil. Let’s grow something great.\"*
