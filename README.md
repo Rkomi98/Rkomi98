@@ -93,6 +93,7 @@ Hey 👋 I'm Mirko Calcaterra
 
 ### 📊 GitHub Statistics
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkomi98&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
   <img src="https://github-readme-stats.vercel.app/api?username=rkomi98&show_icons=true&theme=dark" />
 </p>
 
