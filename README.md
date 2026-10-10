@@ -1,133 +1,107 @@
-<!-- Banner 
-<img src="https://raw.githubusercontent.com/rkomi98/rkomi98/main/banner.png" width="100%" alt="Mirko Calcaterra banner" /> -->
+![Mirko Calcaterra — From data to useful tools. AI engineering, GeoAI and sports technology.](assets/header.svg)
 
-## Who am I?
-Hey 👋 I'm Mirko Calcaterra
-
-
-<p align="left">
-  <strong>GenAI Engineer</strong> · AI Adoption Team @ <a href="https://datapizza.tech" target="_blank">Datapizza</a><br/>
-  🎓 Geoinformatics Engineer &nbsp;|&nbsp; 📐 Mathematical Engineer @ <a href="https://www.polimi.it" target="_blank">Politecnico di Milano</a>
-</p>
-
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rkomi98.rkomi98" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/rkomi98?label=Follow&style=social" alt="GitHub Followers"/>
-</p>
-
-<img align="right" alt="Coding GIF" height="200" src="giphy.gif" />
-
----
-
-## 🚀 About Me
-- 🔭 I design and deliver **GenAI & LLM** training paths at **Datapizza** (Edu Team).
-- 🌱 Currently diving into **Earth Observation**, **Geospatial AI** & **Self‑Supervised Learning**.
-- 💬 Ask me about **Python**, **Dashboards**, **Machine Learning** and **Neural Networks**.
-- 🏐 Outside the terminal you'll find me on the **volleyball** court.
-
-<!-- =============================== -->
-<!--         Favorite Tech          -->
-<!-- =============================== -->
-<h2 align="left">💻 Favorite Tech &amp; Tools</h2>
-
-<p align="left">
-  <!-- Core Languages & Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" alt="R"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" alt="GitHub Actions"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" alt="LaTeX"/>
-  <br/>
-  <!-- Data Visualization & Apps -->
-  <img src="https://img.shields.io/badge/Shiny-1f78b4?logo=R&amp;logoColor=white&amp;style=for-the-badge" alt="Shiny"/>  
-  <img src="https://img.shields.io/badge/PyOD-0ea5e9?style=for-the-badge" alt="PyOD"/>
-  <img src="https://img.shields.io/badge/Streamlit-ff4b4b?logo=Streamlit&amp;logoColor=white&amp;style=for-the-badge" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Plotly-3f4aa3?logo=plotly&amp;logoColor=white&amp;style=for-the-badge" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/Matplotlib-3776ab?logo=python&amp;logoColor=white&amp;style=for-the-badge" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-00a4e2?logo=python&amp;logoColor=white&amp;style=for-the-badge" alt="Seaborn"/>
-</p>
-
-<!-- =============================== -->
-<!--     Deep Learning & ML         -->
-<!-- =============================== -->
-<h2 align="left">🧠 Deep Learning &amp; ML</h2>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" alt="scikit-learn"/>  
-</p>
-
-<!-- =============================== -->
-<!--            LLM Stack           -->
-<!-- =============================== -->
-<h2 align="left">🔤 LLM Stack</h2>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1d4ed8?style=for-the-badge" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-9333ea?style=for-the-badge" alt="LangGraph"/>
-</p>
-
-<h2 align="left">🛠️ Other Tools &amp; Passions</h2>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="40" alt="Fedora"/>
-  <img src="https://img.shields.io/badge/Cursor-1e90ff?style=for-the-badge" alt="Cursor"/>
-</p>
-
-<!-- =============================== -->
-<!--        Book Preview            -->
-<!-- =============================== -->
-<h2 align="left">📖 Latest Publication</h2>
-
-<p align="left">
-  Curious about probabilistic inference? &nbsp;👉&nbsp;
-  <a href="https://www.fubinitonelli.it/inferenza/" target="_blank"><strong>Browse the book preview here</strong></a>
-</p>
-
-### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkomi98&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rkomi98&show_icons=true&theme=dark" />
+  <a href="https://www.linkedin.com/in/mirko-calcaterra-30029519b"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LET'S_CONNECT-25313b?style=for-the-badge" /></a>
+  <a href="https://rkomi98.github.io/MyBlog/blog/index.html"><img alt="Read my blog" src="https://img.shields.io/badge/READ_MY_BLOG-54748b?style=for-the-badge" /></a>
+  <a href="PROJECTS.md"><img alt="Explore all public projects" src="https://img.shields.io/badge/PROJECT_GUIDE-537c70?style=for-the-badge" /></a>
 </p>
 
-[![Mirko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rkomi98&bg_color=1d1f21&color=ffffff&line=00e676&point=ff9100&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+**GenAI Engineer @ [Datapizza](https://datapizza.tech) · AI engineering · GeoAI · Sports tech**
 
+I build **AI applications, data pipelines, and tools for real workflows** — from searchable knowledge bases to satellite datasets and volleyball analytics. I also design and deliver hands-on training that helps teams put AI into practice.
 
+My background combines **Mathematical and Geoinformatics Engineering at Politecnico di Milano**. I work across Python, applied ML, and full-stack development, connecting models and data to interfaces people can use.
 
----
+<p>
+  <img width="240" src="assets/capabilities-ai.svg" alt="AI systems: RAG, agent workflows, MCP, harnesses and evaluation." />
+  <img width="240" src="assets/capabilities-geo.svg" alt="GeoAI: spatial data, applied machine learning, Earth Observation and 3D data." />
+  <img width="240" src="assets/capabilities-products.svg" alt="Products and people: full-stack development, training and sports analytics." />
+</p>
 
-> *\"Data is the new soil. Let’s grow something great.\"*
+## Open something I've built
 
-#### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mirko-calcaterra-30029519b)
+**[NASA NEO Observatory →](https://nasa-neo-rose.vercel.app/)**
 
-<sub>Last update: August 2025</sub>
+Explore NASA near-Earth objects through an orbital view, charts, filters, and detail pages. **Next.js · FastAPI · ECharts** — [source & architecture](https://github.com/Rkomi98/NASA-NEO). The backend may take a little time to wake up on the first visit.
 
-<!--
+**[Quaderno: the Claude courses →](https://rkomi98.github.io/Claude-101/)**
 
-![emmalod's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmalod&theme=merko&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmalod&layout=donut&theme=merko)](https://github.com/emmalod/github-readme-stats)
+An Italian reading experience with chapters, notes, bookmarks, and text-to-speech. An independent adaptation of public Anthropic learning materials. **JavaScript · React · GitHub Pages** — [source](https://github.com/Rkomi98/Claude-101).
 
--->
+**[My technical blog →](https://rkomi98.github.io/MyBlog/blog/index.html)**
 
-<!--
-**Rkomi98/Rkomi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Articles on AI engineering, multi-agent systems, retrieval, and geospatial data, with a bilingual Markdown publishing pipeline. **Node.js · Gemini · GitHub Pages** — [source](https://github.com/Rkomi98/MyBlog).
 
-Here are some ideas to get you started:
+## More work you can inspect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it shows |
+| --- | --- |
+| **[VolleyRef](https://github.com/Rkomi98/VolleyRef)** | PDF/OCR extraction → editable, validated volleyball match data → Excel/CSV. Next.js, FastAPI, OpenCV, Tesseract, and an Electron desktop package. |
+| **[datapizzaAI-RAG](https://github.com/Rkomi98/datapizzaAI-RAG)** | A documentation assistant with ingestion, semantic retrieval, query rewriting, memory, and MCP integration. Python, datapizza-ai, Qdrant, Gemini, and Streamlit. |
+| **[Point-cloud research](https://github.com/Rkomi98/Point-Clouds-Data-Cleaning)** | Thesis work on outliers, denoising, and vegetation removal for illegal-landfill detection, with Python experiments and synthetic data generation. |
+| **[EO dataset pipeline](https://github.com/Rkomi98/PersonalProjects/tree/main/EO%20Notebook)** | Sentinel-2 discovery → cloud-aware preprocessing → Zarr/Parquet datasets, quality checks, and a PyTorch data loader. |
+| **[DevPath](https://github.com/Rkomi98/DevPath)** | An adaptive coding-practice MVP: diagnostic onboarding, progressive hints, and isolated Python execution. Next.js, PostgreSQL/Supabase, and Docker. |
+| **[Blender workflow plugin](https://github.com/Rkomi98/senior-blender-designer-plugin)** | AI-assisted 3D production with modelling, UVs, rendering, visual review, and Python checks for geometry, printability, and export. |
+
+## Experience beyond the public repos
+
+My private projects also cover:
+
+- **Agent engineering:** MCP tools/resources, harness design, skills, deterministic controls, human approval gates, and regression checks.
+- **Evaluation & platforms:** retrieval and generation evaluation, asynchronous scoring, queues, event administration, and role-based access.
+- **Analytics & reporting:** configurable survey pipelines, clustering, LLM-assisted text analysis, traceable artefacts, and automated reports.
+- **Sports products:** touchscreen scouting, rotations and libero logic, video-analysis workflows, and prototypes for automated clip generation.
+- **Applied ML:** 3D segmentation, thermal-image processing, and comparisons between CNN baselines and foundation-model approaches.
+- **Integrations:** OAuth, PostgreSQL/Supabase, Redis/RQ, Google Apps Script, Drive, and calendar workflows.
+
+This work informs my skills; client information, datasets, and private code stay private.
+
+## Tools I reach for
+
+**AI & agents**
+
+![Python](https://img.shields.io/badge/Python-25313b?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-25313b?style=flat-square&logo=pytorch&logoColor=white)
+![datapizza-ai](https://img.shields.io/badge/datapizza--ai-25313b?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-25313b?style=flat-square&logo=qdrant&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-537c70?style=flat-square)
+
+Retrieval, agent orchestration and evaluation · pandas & scikit-learn · OpenAI, Gemini & Anthropic.
+
+**Applications & infrastructure**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-25313b?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-25313b?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-25313b?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-25313b?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-25313b?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-54748b?style=flat-square&logo=docker&logoColor=white)
+
+React interfaces · REST APIs & OAuth · Redis/RQ · GitHub Actions.
+
+**Geospatial & visual computing**
+
+![QGIS](https://img.shields.io/badge/QGIS-25313b?style=flat-square&logo=qgis&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-25313b?style=flat-square&logo=geopandas&logoColor=white)
+![Rasterio](https://img.shields.io/badge/Rasterio-25313b?style=flat-square)
+![STAC](https://img.shields.io/badge/STAC-25313b?style=flat-square)
+![Blender](https://img.shields.io/badge/Blender-a88758?style=flat-square&logo=blender&logoColor=white)
+
+Earth Observation · xarray & Zarr · 3D point clouds · Plotly & Streamlit.
+
+## GitHub at a glance
+
+<p>
+  <img width="360" src="assets/github-stats.svg" alt="GitHub statistics: contributions, active days, public repositories, followers, stars and forks received." />
+  <img width="360" src="assets/languages.svg" alt="Public non-fork repository count by primary language. These counts describe projects, not skill levels." />
+</p>
+
+![Contribution activity over the GitHub calendar period, with dates and totals.](assets/activity.svg)
+
+<sub>Source: GitHub · Updated daily · Repository metrics cover public work; the language chart counts non-fork repositories.</sub>
+
+I enjoy the full path from **understanding a problem to building, evaluating, and explaining a solution**. Outside work, you'll often find me on a volleyball court.
+
+[Browse all public projects](PROJECTS.md) · [Let's connect](https://www.linkedin.com/in/mirko-calcaterra-30029519b)
+
+<sub>Updated 10 October 2026 · Public examples, plus a capability summary of private work.</sub>
