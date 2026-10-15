@@ -6,7 +6,7 @@
   <a href="PROJECTS.md"><img alt="Explore all public projects" src="https://img.shields.io/badge/PROJECT_GUIDE-537c70?style=for-the-badge" /></a>
 </p>
 
-**GenAI Engineer @ [Datapizza](https://datapizza.tech) · AI engineering · GeoAI · Sports tech**
+**AI Engineer & AI Adoption Specialist @ [Datapizza](https://datapizza.tech) · AI engineering · GeoAI · Sports tech**
 
 I build **AI applications, data pipelines, and tools for real workflows** — from searchable knowledge bases to satellite datasets and volleyball analytics. I also design and deliver hands-on training that helps teams put AI into practice.
 
