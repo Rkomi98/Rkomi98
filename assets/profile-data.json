@@ -1,9 +1,9 @@
 {
   "username": "Rkomi98",
-  "updated_on": "2026-11-07",
+  "updated_on": "2026-11-08",
   "public_repositories": 35,
   "source_repositories": 31,
-  "followers": 20,
+  "followers": 19,
   "stars_received": 6,
   "forks_received": 16,
   "primary_languages": {
@@ -22,38 +22,6 @@
   "calendar": {
     "totalContributions": 1416,
     "weeks": [
-      {
-        "contributionDays": [
-          {
-            "date": "2025-11-02",
-            "contributionCount": 6
-          },
-          {
-            "date": "2025-11-03",
-            "contributionCount": 12
-          },
-          {
-            "date": "2025-11-04",
-            "contributionCount": 0
-          },
-          {
-            "date": "2025-11-05",
-            "contributionCount": 5
-          },
-          {
-            "date": "2025-11-06",
-            "contributionCount": 6
-          },
-          {
-            "date": "2025-11-07",
-            "contributionCount": 7
-          },
-          {
-            "date": "2025-11-08",
-            "contributionCount": 2
-          }
-        ]
-      },
       {
         "contributionDays": [
           {
@@ -1714,6 +1682,14 @@
           },
           {
             "date": "2026-11-07",
+            "contributionCount": 0
+          }
+        ]
+      },
+      {
+        "contributionDays": [
+          {
+            "date": "2026-11-08",
             "contributionCount": 0
           }
         ]
